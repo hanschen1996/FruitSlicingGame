@@ -6,3 +6,5 @@ Instructions:
 -Open index.html, and start playing the game.
 
 -Or go to http://www.junyechen.thecompletewebhosting.com/FruitSlicingGame and play
+
+Credits to: Issam, the instructor of Udemy course: the Complete Web Development (http://developmentisland.com/)
